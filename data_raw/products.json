@@ -1,0 +1,1922 @@
+[
+  {
+    "product_id": "P0001",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 1501.64,
+    "cost": 1060.12,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0002",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 738.48,
+    "cost": 333.6,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P0003",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 905.73,
+    "cost": 498.15,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0004",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 763.75,
+    "cost": 470.85,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0005",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 990.6,
+    "cost": 649.16,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0006",
+    "category": "Fashion",
+    "brand": "Nova",
+    "price": 1119.57,
+    "cost": 730.11,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0007",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 1149.62,
+    "cost": 694.2,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0008",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 1356.03,
+    "cost": 832.56,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0009",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 816.59,
+    "cost": 421.52,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0010",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 2072.3,
+    "cost": 1038.16,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0011",
+    "category": "Books",
+    "brand": "Orion",
+    "price": 1319.59,
+    "cost": 962.72,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0012",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 544.07,
+    "cost": 341.99,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0013",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 3828.5,
+    "cost": 2478.57,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0014",
+    "category": "Beauty",
+    "brand": "Zenith",
+    "price": 1749.66,
+    "cost": 874.07,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0015",
+    "category": "Fashion",
+    "brand": "Zenith",
+    "price": 1839.02,
+    "cost": 1185.61,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0016",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 987.5,
+    "cost": 493.51,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0017",
+    "category": "Fashion",
+    "brand": "Nova",
+    "price": 1143.78,
+    "cost": 551.2,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0018",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 822.99,
+    "cost": 451.94,
+    "rating": 3.2
+  },
+  {
+    "product_id": "P0019",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 1207.72,
+    "cost": 880.28,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0020",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 1040.32,
+    "cost": 518.08,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P0021",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1078.12,
+    "cost": 549.39,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0022",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 690.39,
+    "cost": 396.4,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0023",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 1824.75,
+    "cost": 1348.77,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0024",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 2272.58,
+    "cost": 1586.12,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0025",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1541.75,
+    "cost": 756.31,
+    "rating": 3.2
+  },
+  {
+    "product_id": "P0026",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 776.69,
+    "cost": 483.75,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0027",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 904.0,
+    "cost": 610.76,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0028",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 1137.67,
+    "cost": 853.29,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0029",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 1219.81,
+    "cost": 852.02,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0030",
+    "category": "Beauty",
+    "brand": "Acme",
+    "price": 794.83,
+    "cost": 571.51,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0031",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 920.52,
+    "cost": 570.07,
+    "rating": 3.2
+  },
+  {
+    "product_id": "P0032",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 1555.51,
+    "cost": 886.38,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0033",
+    "category": "Fashion",
+    "brand": "Zenith",
+    "price": 1931.8,
+    "cost": 1234.81,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0034",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 547.16,
+    "cost": 326.48,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P0035",
+    "category": "Electronics",
+    "brand": "Kairo",
+    "price": 1095.92,
+    "cost": 817.4,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0036",
+    "category": "Beauty",
+    "brand": "Omni",
+    "price": 945.21,
+    "cost": 699.27,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0037",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 630.97,
+    "cost": 373.47,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0038",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 1283.48,
+    "cost": 918.96,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0039",
+    "category": "Home",
+    "brand": "Velo",
+    "price": 1279.7,
+    "cost": 716.36,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0040",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 817.49,
+    "cost": 425.31,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0041",
+    "category": "Sports",
+    "brand": "Velo",
+    "price": 1533.84,
+    "cost": 932.78,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0042",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 899.98,
+    "cost": 690.51,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0043",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1325.17,
+    "cost": 676.74,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0044",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1177.8,
+    "cost": 846.87,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0045",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 964.0,
+    "cost": 688.94,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0046",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 963.55,
+    "cost": 448.43,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0047",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 1289.77,
+    "cost": 686.19,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0048",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 934.52,
+    "cost": 602.6,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0049",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 1179.22,
+    "cost": 651.51,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0050",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 2114.9,
+    "cost": 1410.95,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P0051",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 2046.63,
+    "cost": 947.79,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0052",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 2882.59,
+    "cost": 1345.4,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0053",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 729.05,
+    "cost": 478.83,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0054",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 399.22,
+    "cost": 284.66,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0055",
+    "category": "Sports",
+    "brand": "Velo",
+    "price": 1301.4,
+    "cost": 670.36,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0056",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 746.62,
+    "cost": 359.69,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0057",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 1593.34,
+    "cost": 1139.49,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0058",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 782.39,
+    "cost": 582.62,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0059",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 1535.89,
+    "cost": 799.96,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0060",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 1212.91,
+    "cost": 646.99,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0061",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 1917.46,
+    "cost": 1103.68,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0062",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 2404.3,
+    "cost": 1380.94,
+    "rating": 3.1
+  },
+  {
+    "product_id": "P0063",
+    "category": "Beauty",
+    "brand": "Kairo",
+    "price": 431.45,
+    "cost": 229.38,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0064",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 2653.03,
+    "cost": 1852.88,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0065",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 2372.83,
+    "cost": 1665.37,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0066",
+    "category": "Beauty",
+    "brand": "Acme",
+    "price": 1301.3,
+    "cost": 620.48,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0067",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 717.97,
+    "cost": 520.4,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0068",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 633.29,
+    "cost": 469.71,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0069",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 3284.88,
+    "cost": 2266.62,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0070",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 1569.12,
+    "cost": 898.07,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0071",
+    "category": "Home",
+    "brand": "Kairo",
+    "price": 1333.78,
+    "cost": 684.2,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0072",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 2449.04,
+    "cost": 1826.67,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0073",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 938.81,
+    "cost": 622.14,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0074",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 2165.45,
+    "cost": 1576.88,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0075",
+    "category": "Beauty",
+    "brand": "Zenith",
+    "price": 1434.42,
+    "cost": 732.8,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0076",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 2926.34,
+    "cost": 1746.39,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0077",
+    "category": "Fashion",
+    "brand": "Zenith",
+    "price": 898.52,
+    "cost": 654.68,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0078",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 1053.21,
+    "cost": 724.76,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0079",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 1026.7,
+    "cost": 593.28,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0080",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 530.51,
+    "cost": 264.64,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0081",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 833.95,
+    "cost": 409.23,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0082",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1072.26,
+    "cost": 685.96,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0083",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 737.68,
+    "cost": 554.56,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0084",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 1139.58,
+    "cost": 690.84,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0085",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 693.11,
+    "cost": 476.52,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0086",
+    "category": "Sports",
+    "brand": "Acme",
+    "price": 2946.57,
+    "cost": 2190.1,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0087",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 1143.44,
+    "cost": 600.27,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0088",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 2874.2,
+    "cost": 1460.61,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0089",
+    "category": "Beauty",
+    "brand": "Kairo",
+    "price": 965.56,
+    "cost": 647.94,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0090",
+    "category": "Home",
+    "brand": "Kairo",
+    "price": 1499.98,
+    "cost": 930.49,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0091",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 1216.6,
+    "cost": 864.96,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P0092",
+    "category": "Fashion",
+    "brand": "Nova",
+    "price": 1313.82,
+    "cost": 640.29,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0093",
+    "category": "Books",
+    "brand": "Orion",
+    "price": 587.0,
+    "cost": 452.03,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0094",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 497.45,
+    "cost": 374.05,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0095",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 4410.54,
+    "cost": 2081.38,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0096",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 1235.4,
+    "cost": 866.16,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0097",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 676.54,
+    "cost": 494.14,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0098",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 981.69,
+    "cost": 496.07,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0099",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 1057.3,
+    "cost": 683.96,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0100",
+    "category": "Books",
+    "brand": "Orion",
+    "price": 1146.9,
+    "cost": 710.82,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0101",
+    "category": "Home",
+    "brand": "Orion",
+    "price": 827.76,
+    "cost": 592.02,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0102",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 2244.07,
+    "cost": 1486.51,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0103",
+    "category": "Home",
+    "brand": "Kairo",
+    "price": 1984.28,
+    "cost": 1346.14,
+    "rating": 3.2
+  },
+  {
+    "product_id": "P0104",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1770.32,
+    "cost": 918.76,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0105",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 685.71,
+    "cost": 473.27,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0106",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 892.47,
+    "cost": 522.09,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0107",
+    "category": "Beauty",
+    "brand": "Kairo",
+    "price": 2188.7,
+    "cost": 1046.13,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0108",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 717.54,
+    "cost": 332.27,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0109",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 948.73,
+    "cost": 450.15,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0110",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 626.88,
+    "cost": 463.87,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0111",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 1276.57,
+    "cost": 872.43,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0112",
+    "category": "Fashion",
+    "brand": "Velo",
+    "price": 958.15,
+    "cost": 627.33,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0113",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 1124.39,
+    "cost": 656.67,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0114",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 1775.37,
+    "cost": 1021.8,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0115",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 1311.04,
+    "cost": 736.22,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0116",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 494.21,
+    "cost": 350.46,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0117",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 1233.28,
+    "cost": 905.12,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0118",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 846.58,
+    "cost": 570.28,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0119",
+    "category": "Fashion",
+    "brand": "Zenith",
+    "price": 856.77,
+    "cost": 468.29,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0120",
+    "category": "Home",
+    "brand": "Kairo",
+    "price": 746.76,
+    "cost": 446.29,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0121",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1068.34,
+    "cost": 794.2,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0122",
+    "category": "Fashion",
+    "brand": "Nova",
+    "price": 1309.4,
+    "cost": 802.62,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0123",
+    "category": "Electronics",
+    "brand": "Acme",
+    "price": 730.28,
+    "cost": 376.35,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0124",
+    "category": "Home",
+    "brand": "Velo",
+    "price": 750.9,
+    "cost": 455.28,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0125",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 270.22,
+    "cost": 170.28,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0126",
+    "category": "Beauty",
+    "brand": "Zenith",
+    "price": 704.26,
+    "cost": 495.99,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0127",
+    "category": "Home",
+    "brand": "Velo",
+    "price": 2730.42,
+    "cost": 1629.83,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0128",
+    "category": "Electronics",
+    "brand": "Omni",
+    "price": 449.62,
+    "cost": 297.79,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0129",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1210.05,
+    "cost": 734.81,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0130",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 2591.03,
+    "cost": 1988.56,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0131",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 1229.37,
+    "cost": 580.59,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0132",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 717.79,
+    "cost": 369.33,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0133",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 1152.15,
+    "cost": 704.04,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0134",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 942.17,
+    "cost": 662.66,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0135",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 1322.02,
+    "cost": 785.83,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0136",
+    "category": "Electronics",
+    "brand": "Acme",
+    "price": 406.91,
+    "cost": 269.03,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0137",
+    "category": "Sports",
+    "brand": "Acme",
+    "price": 1008.91,
+    "cost": 548.34,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0138",
+    "category": "Home",
+    "brand": "Acme",
+    "price": 940.17,
+    "cost": 474.28,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0139",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 1378.53,
+    "cost": 743.0,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0140",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 510.03,
+    "cost": 297.9,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0141",
+    "category": "Fashion",
+    "brand": "Velo",
+    "price": 1573.13,
+    "cost": 1187.49,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0142",
+    "category": "Beauty",
+    "brand": "Omni",
+    "price": 1614.61,
+    "cost": 1080.0,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0143",
+    "category": "Fashion",
+    "brand": "Velo",
+    "price": 2424.08,
+    "cost": 1853.47,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0144",
+    "category": "Electronics",
+    "brand": "Acme",
+    "price": 2139.65,
+    "cost": 985.75,
+    "rating": 3.0
+  },
+  {
+    "product_id": "P0145",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 560.77,
+    "cost": 365.59,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0146",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 1039.02,
+    "cost": 794.12,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P0147",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1203.7,
+    "cost": 549.08,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0148",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1609.93,
+    "cost": 1176.84,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0149",
+    "category": "Electronics",
+    "brand": "Zenith",
+    "price": 833.14,
+    "cost": 411.27,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0150",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 2296.22,
+    "cost": 1736.49,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0151",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 734.05,
+    "cost": 537.07,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0152",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 1509.64,
+    "cost": 801.63,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0153",
+    "category": "Electronics",
+    "brand": "Velo",
+    "price": 792.1,
+    "cost": 411.97,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0154",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1571.13,
+    "cost": 1071.19,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0155",
+    "category": "Home",
+    "brand": "Velo",
+    "price": 279.16,
+    "cost": 173.16,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0156",
+    "category": "Beauty",
+    "brand": "Kairo",
+    "price": 3246.72,
+    "cost": 1551.45,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0157",
+    "category": "Sports",
+    "brand": "Velo",
+    "price": 1964.16,
+    "cost": 1086.62,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0158",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 3739.08,
+    "cost": 2044.04,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0159",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 2667.14,
+    "cost": 1533.14,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P0160",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1150.19,
+    "cost": 527.63,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0161",
+    "category": "Beauty",
+    "brand": "Omni",
+    "price": 555.47,
+    "cost": 383.92,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0162",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 551.51,
+    "cost": 329.73,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0163",
+    "category": "Beauty",
+    "brand": "Zenith",
+    "price": 980.93,
+    "cost": 512.47,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0164",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 771.69,
+    "cost": 465.88,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0165",
+    "category": "Fashion",
+    "brand": "Velo",
+    "price": 1847.33,
+    "cost": 997.72,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0166",
+    "category": "Beauty",
+    "brand": "Kairo",
+    "price": 1050.26,
+    "cost": 515.9,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0167",
+    "category": "Sports",
+    "brand": "Kairo",
+    "price": 899.73,
+    "cost": 424.65,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0168",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 3825.54,
+    "cost": 1728.72,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0169",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 1189.82,
+    "cost": 564.17,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0170",
+    "category": "Home",
+    "brand": "Velo",
+    "price": 807.52,
+    "cost": 484.14,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0171",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 839.57,
+    "cost": 486.47,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0172",
+    "category": "Home",
+    "brand": "Acme",
+    "price": 1059.77,
+    "cost": 810.38,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0173",
+    "category": "Beauty",
+    "brand": "Omni",
+    "price": 725.29,
+    "cost": 463.08,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0174",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 1049.63,
+    "cost": 663.0,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0175",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 720.21,
+    "cost": 363.53,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0176",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 1198.35,
+    "cost": 754.76,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0177",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 1041.56,
+    "cost": 596.66,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0178",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 963.41,
+    "cost": 467.56,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P0179",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1856.34,
+    "cost": 988.21,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0180",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 1145.09,
+    "cost": 532.02,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0181",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 502.82,
+    "cost": 379.19,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0182",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 913.72,
+    "cost": 569.18,
+    "rating": 3.1
+  },
+  {
+    "product_id": "P0183",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 1464.6,
+    "cost": 829.98,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0184",
+    "category": "Sports",
+    "brand": "Velo",
+    "price": 472.79,
+    "cost": 338.85,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0185",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 1331.16,
+    "cost": 981.76,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0186",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 1500.5,
+    "cost": 926.7,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0187",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 946.83,
+    "cost": 442.44,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0188",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 3515.87,
+    "cost": 1995.78,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P0189",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 878.25,
+    "cost": 491.18,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0190",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 1085.53,
+    "cost": 758.94,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0191",
+    "category": "Home",
+    "brand": "Orion",
+    "price": 701.68,
+    "cost": 387.66,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0192",
+    "category": "Fashion",
+    "brand": "Nova",
+    "price": 1117.37,
+    "cost": 664.28,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0193",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1136.9,
+    "cost": 778.87,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0194",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 2995.03,
+    "cost": 2035.43,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0195",
+    "category": "Electronics",
+    "brand": "Orion",
+    "price": 2891.9,
+    "cost": 1389.78,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0196",
+    "category": "Electronics",
+    "brand": "Orion",
+    "price": 1835.27,
+    "cost": 1381.97,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P0197",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 1925.15,
+    "cost": 1157.79,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0198",
+    "category": "Fashion",
+    "brand": "Velo",
+    "price": 768.1,
+    "cost": 598.42,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0199",
+    "category": "Books",
+    "brand": "Velo",
+    "price": 891.67,
+    "cost": 631.74,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0200",
+    "category": "Electronics",
+    "brand": "Orion",
+    "price": 1141.6,
+    "cost": 684.35,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0201",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 652.1,
+    "cost": 495.77,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0202",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1238.3,
+    "cost": 749.79,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0203",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 1550.39,
+    "cost": 769.21,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0204",
+    "category": "Sports",
+    "brand": "Velo",
+    "price": 2514.71,
+    "cost": 1689.19,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0205",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 571.83,
+    "cost": 309.77,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0206",
+    "category": "Beauty",
+    "brand": "Velo",
+    "price": 603.48,
+    "cost": 335.93,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0207",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 497.76,
+    "cost": 338.5,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0208",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 1340.32,
+    "cost": 618.22,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0209",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 1247.41,
+    "cost": 704.68,
+    "rating": 5.0
+  },
+  {
+    "product_id": "P0210",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 986.85,
+    "cost": 674.19,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0211",
+    "category": "Beauty",
+    "brand": "Orion",
+    "price": 976.14,
+    "cost": 520.94,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P0212",
+    "category": "Home",
+    "brand": "Orion",
+    "price": 980.84,
+    "cost": 637.3,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P0213",
+    "category": "Fashion",
+    "brand": "Orion",
+    "price": 1382.33,
+    "cost": 859.8,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0214",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1976.61,
+    "cost": 1103.36,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0215",
+    "category": "Fashion",
+    "brand": "Acme",
+    "price": 1802.93,
+    "cost": 856.47,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P0216",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 2825.92,
+    "cost": 1300.44,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0217",
+    "category": "Books",
+    "brand": "Kairo",
+    "price": 2134.49,
+    "cost": 1459.54,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0218",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 1942.89,
+    "cost": 1449.86,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0219",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 2479.35,
+    "cost": 1138.56,
+    "rating": 3.3
+  },
+  {
+    "product_id": "P0220",
+    "category": "Books",
+    "brand": "Acme",
+    "price": 1284.93,
+    "cost": 846.72,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P0221",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 1992.42,
+    "cost": 1117.15,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0222",
+    "category": "Home",
+    "brand": "Acme",
+    "price": 1949.06,
+    "cost": 1312.12,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0223",
+    "category": "Sports",
+    "brand": "Omni",
+    "price": 765.13,
+    "cost": 410.03,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P0224",
+    "category": "Sports",
+    "brand": "Orion",
+    "price": 1001.72,
+    "cost": 662.58,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P0225",
+    "category": "Home",
+    "brand": "Acme",
+    "price": 1184.82,
+    "cost": 559.31,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0226",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 748.55,
+    "cost": 531.14,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0227",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 1408.74,
+    "cost": 1029.73,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0228",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 3874.77,
+    "cost": 2258.35,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P0229",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 1347.7,
+    "cost": 803.36,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P0230",
+    "category": "Home",
+    "brand": "Omni",
+    "price": 1240.24,
+    "cost": 913.71,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0231",
+    "category": "Books",
+    "brand": "Zenith",
+    "price": 1483.9,
+    "cost": 1127.63,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0232",
+    "category": "Electronics",
+    "brand": "Acme",
+    "price": 956.31,
+    "cost": 742.9,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P0233",
+    "category": "Sports",
+    "brand": "Acme",
+    "price": 1382.29,
+    "cost": 851.98,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0234",
+    "category": "Books",
+    "brand": "Orion",
+    "price": 863.86,
+    "cost": 424.36,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P0235",
+    "category": "Home",
+    "brand": "Zenith",
+    "price": 2450.39,
+    "cost": 1607.06,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0236",
+    "category": "Books",
+    "brand": "Omni",
+    "price": 695.47,
+    "cost": 500.64,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P0237",
+    "category": "Fashion",
+    "brand": "Omni",
+    "price": 1045.97,
+    "cost": 633.29,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P0238",
+    "category": "Fashion",
+    "brand": "Kairo",
+    "price": 1593.16,
+    "cost": 942.35,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P0239",
+    "category": "Home",
+    "brand": "Acme",
+    "price": 1251.96,
+    "cost": 570.96,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P0240",
+    "category": "Sports",
+    "brand": "Zenith",
+    "price": 1295.2,
+    "cost": 709.29,
+    "rating": 3.9
+  }
+]

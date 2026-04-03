@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-01-30T12:59:08Z",
+  "seed": 7,
+  "observation_start": "2025-07-04",
+  "observation_end": "2026-01-30",
+  "rows": {
+    "users": 2600,
+    "campaigns": 40,
+    "ad_spend_daily": 8461,
+    "sessions": 659793,
+    "orders": 16225,
+    "order_items": 40456,
+    "products": 240
+  }
+}
