@@ -55,33 +55,33 @@ Step 3 — Generated outputs
 ETL will create cleaned datasets inside:
 /data
 
-# Curated Outputs Generated
+## Curated Outputs Generated
 fact_sessions.csv
 fact_orders.csv
 fact_campaign_daily.csv
 fact_channel_daily.csv
 category_channel_performance.csv
 
-# These are used for:
+## These are used for:
 Analysis
 Dashboard creation
  
-# Dashboard Tool Used
+## Dashboard Tool Used
 Power BI
 
-# Dashboard Includes
+## Dashboard Includes
 Executive Summary
 Channel & Campaign Performance
 Attribution vs Regression Analysis
 Segments & Opportunities
 
-# Key Outcomes
+## Key Outcomes
 Identified high-performing channels (Search, Email)
 Detected inefficiencies in Paid Social (high CAC)
 Proposed optimized budget allocation
 Estimated 30-day revenue uplift
 
-# Key Outcomes
+## Key Outcomes
 Identified high-performing channels (Search, Email)
 Detected inefficiencies in Paid Social (high CAC)
 Proposed optimized budget allocation
