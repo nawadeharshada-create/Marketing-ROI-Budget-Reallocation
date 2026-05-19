@@ -121,8 +121,6 @@ The final marketing channel a customer interacts with before converting receives
 
 **Limitation:** Does not account for channels that influence the customer earlier in the journey (awareness, consideration stages).
 
-> ⚠️ Future scope: Multi-touch attribution (Linear, Time-Decay, Shapley Values) for a more complete picture.
-
 ---
 
 ## ▶️ How to Run
