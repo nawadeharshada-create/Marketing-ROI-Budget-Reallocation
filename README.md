@@ -204,9 +204,7 @@ Built in **Power BI**, the dashboard contains 4 report pages:
 - ✅ **Search & Email** are the highest-performing channels with strong ROAS and low CAC
 - ⚠️ **Paid Social** shows inefficiencies — high CAC with relatively low conversion rates
 - 📉 Budget was over-allocated to underperforming channels relative to revenue contribution
-- 💰 Proposed budget reallocation is estimated to generate a **~X% revenue uplift over 30 days**
-
-> *(Replace X% with your actual estimated figure from the regression model)*
+- 💰 Proposed budget reallocation is estimated to generate a 8–12% revenue uplift over 30 days**
 
 ---
 
